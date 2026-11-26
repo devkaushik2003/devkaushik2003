@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dev-kaushik"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/dev-kaushik-9b7865245/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:devkaushik9084@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://instagram.com/dev_kaushik__"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
@@ -171,7 +171,7 @@ I'm an **Associate AI Engineer at [Techolution](https://www.techolution.com/)** 
 
 <p align="center">
   Open to conversations about agentic AI, RAG and LLM systems.<br />
-  <a href="mailto:devkaushik9084@gmail.com">devkaushik9084@gmail.com</a> · <a href="https://www.linkedin.com/in/dev-kaushik">LinkedIn</a>
+  <a href="mailto:devkaushik9084@gmail.com">devkaushik9084@gmail.com</a> · <a href="https://www.linkedin.com/in/dev-kaushik-9b7865245/">LinkedIn</a>
 </p>
 
 <p align="center">
